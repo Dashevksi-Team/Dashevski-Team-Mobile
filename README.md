@@ -1,6 +1,41 @@
 # Dashevski-Team-Mobile
 App Development Department
+Version 1.0
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms
 **By downloading the app you agree our terms of use.
 ATTENTION!
 *This mode may not ocntain the latest updates/patches, make sure you stay updated with the latest version by checking for update everyday on the main page of your app.
