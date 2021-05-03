@@ -4,9 +4,14 @@
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
-| Version | Latest Checked     |
-| 11 |:white_check_mark:       |
-| 12 |TBD:x:                   |
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 11 |:white_check_mark: |
+| 12 |TBD:x:|
+
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
